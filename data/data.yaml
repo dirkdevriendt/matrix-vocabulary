@@ -6,7 +6,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-7b8b965ad4
   sort_order: 17
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: alle teennagels
   unique_name: atn
@@ -16,7 +16,7 @@ matrices:
   name: water
   sort_order: 37
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: water
   unique_name: water
@@ -27,7 +27,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3c45881163
   sort_order: 31
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: buitenlucht
   unique_name: oair
@@ -38,7 +38,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-1c6b3cd2ac
   sort_order: 7
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: navelstrengbloed-serum
   unique_name: cbs
@@ -48,7 +48,7 @@ matrices:
   name: exhaled breath condensate
   sort_order: 23
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: uitgeademde lucht condensaat
   unique_name: ebc
@@ -58,7 +58,7 @@ matrices:
   name: semen
   sort_order: 22
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: zaad
   unique_name: sem
@@ -69,7 +69,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3e88197d1d
   sort_order: 10
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: random spot-urine
   unique_name: us
@@ -80,7 +80,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-fef1807051
   sort_order: 5
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloed-rode bloedcellen
   unique_name: rbc
@@ -91,7 +91,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 38
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: blood volumetrische absorptieve microsample
   unique_name: vams
@@ -101,7 +101,7 @@ matrices:
   name: umbilical cord tissue
   sort_order: 24
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: weefsel van navelstreng
   unique_name: cbt
@@ -112,7 +112,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-62506be34d
   sort_order: 36
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: kippenei
   unique_name: egg
@@ -122,7 +122,7 @@ matrices:
   name: saliva/sputum
   sort_order: 20
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: speeksel
   unique_name: sa
@@ -132,7 +132,7 @@ matrices:
   name: dermal wipes
   sort_order: 26
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: dermale doekjes
   unique_name: dw
@@ -142,7 +142,7 @@ matrices:
   name: adipose tissue/fat
   sort_order: 25
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: vetweefsel/vet
   unique_name: adi
@@ -153,7 +153,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3e88197d1d
   sort_order: 12
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: urine nuchter
   unique_name: uf
@@ -163,7 +163,7 @@ matrices:
   name: stool
   sort_order: 21
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: stoelgang
   unique_name: st
@@ -174,7 +174,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-1c6b3cd2ac
   sort_order: 6
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: navelstrengbloed-volbloed
   unique_name: cbwb
@@ -185,7 +185,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-fef1807051
   sort_order: 4
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloed-bloedcellen
   unique_name: bbc
@@ -195,7 +195,7 @@ matrices:
   name: breast milk
   sort_order: 14
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: moedermelk
   unique_name: bm
@@ -205,7 +205,7 @@ matrices:
   name: nail
   sort_order: 16
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: nagel
   unique_name: n
@@ -216,7 +216,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 3
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloed-plasma
   unique_name: bp
@@ -226,7 +226,7 @@ matrices:
   name: cord blood-cells
   sort_order: 9
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: navelstrengbloed-bloed cellen
   unique_name: cbbc
@@ -237,7 +237,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3c45881163
   sort_order: 30
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: outdoor stof
   unique_name: odust
@@ -248,7 +248,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-7b8b965ad4
   sort_order: 18
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: grote teen nagel
   unique_name: btn
@@ -258,7 +258,7 @@ matrices:
   name: nasal mucus
   sort_order: 19
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: neusslijm
   unique_name: nm
@@ -268,7 +268,7 @@ matrices:
   name: placenta tissue
   sort_order: 28
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: placenta weefsel
   unique_name: plt
@@ -279,7 +279,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-62506be34d
   sort_order: 35
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: moestuin voedsel
   unique_name: kgfood
@@ -289,7 +289,7 @@ matrices:
   name: soil
   sort_order: 34
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: grond
   unique_name: soil
@@ -300,7 +300,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 2
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloed-serum
   unique_name: bs
@@ -311,7 +311,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-1c6b3cd2ac
   sort_order: 8
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: navelstrengbloed-plasma
   unique_name: cbp
@@ -321,7 +321,7 @@ matrices:
   name: hair
   sort_order: 15
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: haar
   unique_name: h
@@ -332,7 +332,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 39
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: blood spot gedroogd
   unique_name: dbs
@@ -343,7 +343,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3c45881163
   sort_order: 29
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: binnen stof
   unique_name: idust
@@ -354,7 +354,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloed-volbloed
   unique_name: bwb
@@ -364,7 +364,7 @@ matrices:
   name: amniotic fluid
   sort_order: 27
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: vruchtwater
   unique_name: af
@@ -375,7 +375,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3e88197d1d
   sort_order: 11
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: eerste ochtend-urine
   unique_name: um
@@ -386,7 +386,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3c45881163
   sort_order: 33
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: persoonlijke lucht
   unique_name: pair
@@ -397,7 +397,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3e88197d1d
   sort_order: 13
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: urine 24u
   unique_name: ud
@@ -408,7 +408,7 @@ matrices:
   parent_matrix: https://w3id.org/peh/MA-3c45881163
   sort_order: 32
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: binnenlucht
   unique_name: iair
@@ -418,7 +418,7 @@ matrices:
   name: air
   sort_order: 0.1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: lucht
   unique_name: air
@@ -428,7 +428,7 @@ matrices:
   name: food
   sort_order: 0.1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: voedsel
   unique_name: food
@@ -438,7 +438,7 @@ matrices:
   name: bloodcells
   sort_order: 0.1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloedcellen
   unique_name: bloodcells
@@ -448,7 +448,7 @@ matrices:
   name: urine
   sort_order: 0.1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: urine
   unique_name: urine
@@ -458,7 +458,7 @@ matrices:
   name: cord blood
   sort_order: 0.1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: navelstrengbloed
   unique_name: cord blood
@@ -468,7 +468,7 @@ matrices:
   name: blood
   sort_order: 0.1
   translations:
-  - language: nl-be
+  - language: nl
     property_name: name
     translated_value: bloed
   unique_name: blood
