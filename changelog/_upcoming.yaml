@@ -3,93 +3,93 @@ release_date: "XXXX-XX-XX"
 maintainer: "gertjan.bisschop@vito.be"
 
 changes:
-- label: atn
+- unique_name: atn
   action: added
-- label: water
+- unique_name: water
   action: added
-- label: oair
+- unique_name: oair
   action: added
-- label: cbs
+- unique_name: cbs
   action: added
-- label: ebc
+- unique_name: ebc
   action: added
-- label: sem
+- unique_name: sem
   action: added
-- label: us
+- unique_name: us
   action: added
-- label: rbc
+- unique_name: rbc
   action: added
-- label: vams
+- unique_name: vams
   action: added
-- label: cbt
+- unique_name: cbt
   action: added
-- label: egg
+- unique_name: egg
   action: added
-- label: sa
+- unique_name: sa
   action: added
-- label: dw
+- unique_name: dw
   action: added
-- label: adi
+- unique_name: adi
   action: added
-- label: uf
+- unique_name: uf
   action: added
-- label: st
+- unique_name: st
   action: added
-- label: cbwb
+- unique_name: cbwb
   action: added
-- label: bbc
+- unique_name: bbc
   action: added
-- label: bm
+- unique_name: bm
   action: added
-- label: n
+- unique_name: n
   action: added
-- label: bp
+- unique_name: bp
   action: added
-- label: cbbc
+- unique_name: cbbc
   action: added
-- label: odust
+- unique_name: odust
   action: added
-- label: btn
+- unique_name: btn
   action: added
-- label: nm
+- unique_name: nm
   action: added
-- label: plt
+- unique_name: plt
   action: added
-- label: kgfood
+- unique_name: kgfood
   action: added
-- label: soil
+- unique_name: soil
   action: added
-- label: bs
+- unique_name: bs
   action: added
-- label: cbp
+- unique_name: cbp
   action: added
-- label: h
+- unique_name: h
   action: added
-- label: dbs
+- unique_name: dbs
   action: added
-- label: idust
+- unique_name: idust
   action: added
-- label: bwb
+- unique_name: bwb
   action: added
-- label: af
+- unique_name: af
   action: added
-- label: um
+- unique_name: um
   action: added
-- label: pair
+- unique_name: pair
   action: added
-- label: ud
+- unique_name: ud
   action: added
-- label: iair
+- unique_name: iair
   action: added
-- label: air
+- unique_name: air
   action: added
-- label: food
+- unique_name: food
   action: added
-- label: bloodcells
+- unique_name: bloodcells
   action: added
-- label: urine
+- unique_name: urine
   action: added
-- label: cord blood
+- unique_name: cord blood
   action: added
-- label: blood
+- unique_name: blood
   action: added
