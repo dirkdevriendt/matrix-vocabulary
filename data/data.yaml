@@ -9,7 +9,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: alle teennagels
-  unique_name: atn
+  unique_name: All toe nail
 - aggregation_target: false
   id: https://w3id.org/peh/MA-9460370bb0
   short_name: water
@@ -30,7 +30,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: buitenlucht
-  unique_name: oair
+  unique_name: outdoor air-stationary
 - aggregation_target: false
   id: https://w3id.org/peh/MA-8e113caded
   short_name: cbs
@@ -41,7 +41,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: navelstrengbloed-serum
-  unique_name: cbs
+  unique_name: cord blood-serum
 - aggregation_target: false
   id: https://w3id.org/peh/MA-01e40bb5c7
   short_name: ebc
@@ -51,7 +51,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: uitgeademde lucht condensaat
-  unique_name: ebc
+  unique_name: exhaled breath condensate
 - aggregation_target: false
   id: https://w3id.org/peh/MA-bd9a2916f0
   short_name: sem
@@ -61,7 +61,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: zaad
-  unique_name: sem
+  unique_name: semen
 - aggregation_target: false
   id: https://w3id.org/peh/MA-0b3b97fa66
   short_name: us
@@ -72,29 +72,29 @@ matrices:
   - language: nl
     property_name: name
     translated_value: random spot-urine
-  unique_name: us
+  unique_name: random spot urine
 - aggregation_target: false
   id: https://w3id.org/peh/MA-6a49f67ed8
   short_name: rbc
-  name: blood - red blood cells
+  name: red blood cells
   parent_matrix: https://w3id.org/peh/MA-fef1807051
   sort_order: 5
   translations:
   - language: nl
     property_name: name
-    translated_value: bloed-rode bloedcellen
-  unique_name: rbc
+    translated_value: rode bloedcellen
+  unique_name: red blood cells
 - aggregation_target: false
   id: https://w3id.org/peh/MA-6685e16510
   short_name: vams
-  name: volumetric absorptive microsample (VAMS)
+  name: volumetric absorptive microsample
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 38
   translations:
   - language: nl
     property_name: name
-    translated_value: blood volumetrische absorptieve microsample
-  unique_name: vams
+    translated_value: volumetrische absorptieve microsample
+  unique_name: volumetric absorptive microsample
 - aggregation_target: false
   id: https://w3id.org/peh/MA-7638e20f13
   short_name: cbt
@@ -104,11 +104,11 @@ matrices:
   - language: nl
     property_name: name
     translated_value: weefsel van navelstreng
-  unique_name: cbt
+  unique_name: umbilical cord tissue
 - aggregation_target: false
   id: https://w3id.org/peh/MA-0e9312087f
   short_name: egg
-  name: eggs
+  name: egg
   parent_matrix: https://w3id.org/peh/MA-62506be34d
   sort_order: 36
   translations:
@@ -125,7 +125,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: speeksel
-  unique_name: sa
+  unique_name: saliva/sputum
 - aggregation_target: false
   id: https://w3id.org/peh/MA-1f2121f36f
   short_name: dw
@@ -135,7 +135,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: dermale doekjes
-  unique_name: dw
+  unique_name: dermal wipes
 - aggregation_target: false
   id: https://w3id.org/peh/MA-c46335eb26
   short_name: adi
@@ -145,7 +145,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: vetweefsel/vet
-  unique_name: adi
+  unique_name: adipose tissue/fat
 - aggregation_target: false
   id: https://w3id.org/peh/MA-9fbcd7dce5
   short_name: uf
@@ -156,7 +156,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: urine nuchter
-  unique_name: uf
+  unique_name: fasting urine
 - aggregation_target: false
   id: https://w3id.org/peh/MA-627fcdb6cc
   short_name: st
@@ -166,7 +166,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: stoelgang
-  unique_name: st
+  unique_name: stool
 - aggregation_target: false
   id: https://w3id.org/peh/MA-a8b88464e5
   short_name: cbwb
@@ -177,18 +177,18 @@ matrices:
   - language: nl
     property_name: name
     translated_value: navelstrengbloed-volbloed
-  unique_name: cbwb
+  unique_name: cord blood-whole blood
 - aggregation_target: false
   id: https://w3id.org/peh/MA-99be496ab9
   short_name: bbc
-  name: blood-blood cells
+  name: blood cells
   parent_matrix: https://w3id.org/peh/MA-fef1807051
   sort_order: 4
   translations:
   - language: nl
     property_name: name
-    translated_value: bloed-bloedcellen
-  unique_name: bbc
+    translated_value: bloedcellen
+  unique_name: blood cells
 - aggregation_target: false
   id: https://w3id.org/peh/MA-0842438558
   short_name: bm
@@ -198,7 +198,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: moedermelk
-  unique_name: bm
+  unique_name: breast milk
 - aggregation_target: false
   id: https://w3id.org/peh/MA-7b8b965ad4
   short_name: n
@@ -208,7 +208,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: nagel
-  unique_name: n
+  unique_name: nail
 - aggregation_target: false
   id: https://w3id.org/peh/MA-5cfdb867e9
   short_name: bp
@@ -218,18 +218,18 @@ matrices:
   translations:
   - language: nl
     property_name: name
-    translated_value: bloed-plasma
-  unique_name: bp
+    translated_value: bloedplasma
+  unique_name: blood plasma
 - aggregation_target: false
   id: https://w3id.org/peh/MA-b9aa273080
   short_name: cbbc
-  name: cord blood-cells
+  name: cord blood cells
   sort_order: 9
   translations:
   - language: nl
     property_name: name
-    translated_value: navelstrengbloed-bloed cellen
-  unique_name: cbbc
+    translated_value: navelstreng bloed cellen
+  unique_name: cord blood cells
 - aggregation_target: false
   id: https://w3id.org/peh/MA-d1c84f12ec
   short_name: odust
@@ -240,7 +240,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: outdoor stof
-  unique_name: odust
+  unique_name: outdoor dust
 - aggregation_target: false
   id: https://w3id.org/peh/MA-d4f5c2c948
   short_name: btn
@@ -251,7 +251,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: grote teen nagel
-  unique_name: btn
+  unique_name: Big toe nail
 - aggregation_target: false
   id: https://w3id.org/peh/MA-93122a9e4a
   short_name: nm
@@ -261,7 +261,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: neusslijm
-  unique_name: nm
+  unique_name: nasal mucus
 - aggregation_target: false
   id: https://w3id.org/peh/MA-60443f67c6
   short_name: plt
@@ -271,7 +271,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: placenta weefsel
-  unique_name: plt
+  unique_name: placenta tissue
 - aggregation_target: false
   id: https://w3id.org/peh/MA-8c947d566d
   short_name: kgfood
@@ -282,7 +282,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: moestuin voedsel
-  unique_name: kgfood
+  unique_name: kitchengarden food
 - aggregation_target: false
   id: https://w3id.org/peh/MA-cf6c9df68d
   short_name: soil
@@ -302,8 +302,8 @@ matrices:
   translations:
   - language: nl
     property_name: name
-    translated_value: bloed-serum
-  unique_name: bs
+    translated_value: bloedserum
+  unique_name: blood serum
 - aggregation_target: false
   id: https://w3id.org/peh/MA-87cd3c0eee
   short_name: cbp
@@ -313,8 +313,8 @@ matrices:
   translations:
   - language: nl
     property_name: name
-    translated_value: navelstrengbloed-plasma
-  unique_name: cbp
+    translated_value: navelstreng bloedplasma
+  unique_name: cord blood-plasma
 - aggregation_target: false
   id: https://w3id.org/peh/MA-2510c39011
   short_name: h
@@ -324,7 +324,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: haar
-  unique_name: h
+  unique_name: hair
 - aggregation_target: false
   id: https://w3id.org/peh/MA-85afaab5f3
   short_name: dbs
@@ -334,8 +334,8 @@ matrices:
   translations:
   - language: nl
     property_name: name
-    translated_value: blood spot gedroogd
-  unique_name: dbs
+    translated_value: bloed spot gedroogd
+  unique_name: dried blood spots
 - aggregation_target: false
   id: https://w3id.org/peh/MA-9e1a0008e3
   short_name: idust
@@ -346,18 +346,18 @@ matrices:
   - language: nl
     property_name: name
     translated_value: binnen stof
-  unique_name: idust
+  unique_name: indoor dust
 - aggregation_target: false
   id: https://w3id.org/peh/MA-f9b8d97e48
   short_name: bwb
-  name: blood-whole blood
+  name: whole blood
   parent_matrix: https://w3id.org/peh/MA-6b157916b4
   sort_order: 1
   translations:
   - language: nl
     property_name: name
-    translated_value: bloed-volbloed
-  unique_name: bwb
+    translated_value: volbloed
+  unique_name: whole blood
 - aggregation_target: false
   id: https://w3id.org/peh/MA-f0357a3f15
   short_name: af
@@ -367,7 +367,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: vruchtwater
-  unique_name: af
+  unique_name: amniotic fluid
 - aggregation_target: false
   id: https://w3id.org/peh/MA-0dd00e33b6
   short_name: um
@@ -377,8 +377,8 @@ matrices:
   translations:
   - language: nl
     property_name: name
-    translated_value: eerste ochtend-urine
-  unique_name: um
+    translated_value: eerste ochtendurine
+  unique_name: first morning urine
 - aggregation_target: false
   id: https://w3id.org/peh/MA-33c9b363aa
   short_name: pair
@@ -389,7 +389,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: persoonlijke lucht
-  unique_name: pair
+  unique_name: personal air
 - aggregation_target: false
   id: https://w3id.org/peh/MA-3dfe3d7a17
   short_name: ud
@@ -400,7 +400,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: urine 24u
-  unique_name: ud
+  unique_name: urine 24h
 - aggregation_target: false
   id: https://w3id.org/peh/MA-4dc65edf50
   short_name: iair
@@ -411,7 +411,7 @@ matrices:
   - language: nl
     property_name: name
     translated_value: binnenlucht
-  unique_name: iair
+  unique_name: indoor air-stationary
 - aggregation_target: false
   id: https://w3id.org/peh/MA-3c45881163
   short_name: air
